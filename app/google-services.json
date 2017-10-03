@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708889115044",
+    "firebase_url": "https://notebook-c6e36.firebaseio.com",
+    "project_id": "notebook-c6e36",
+    "storage_bucket": "notebook-c6e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708889115044:android:17efc480185db30c",
+        "android_client_info": {
+          "package_name": "com.kbakkoyungmail.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708889115044-8r1in39s76a2r7e3m9lg0n0jg8fbvg30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kbakkoyungmail.notebook",
+            "certificate_hash": "26f3ddb9823ea145db166b868412f723a4c8e49f"
+          }
+        },
+        {
+          "client_id": "708889115044-e6100hujjosvmarioo5797hvihingtfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4RiG3pJ-gEQWocilRQXR4TunadEAhEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708889115044-e6100hujjosvmarioo5797hvihingtfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
